@@ -1,0 +1,7 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% GIANMARCO PINTON
+% WRITTEN: 2020-09-19
+% LAST MODIFIED: 2020-09-19
+% BASIC TABLE-BASED BEAMFORMING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+load rf_pointtarget.mat
